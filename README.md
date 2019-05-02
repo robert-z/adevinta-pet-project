@@ -32,12 +32,6 @@ What we want is a project that using the [themoviedb api](https://www.themoviedb
 
 There is some useful information of the frontend team at Schibsted Spain [here](https://confluence.schibsted.io/display/ST/Frontend)
 
-### How much time do we have to build that project?
-
-There's not fixed time to build the project but we think that 10 work days are enough to have all the parts that we demand.
-
-The main idea is to be doing this project with your mentor for the first days. And after that, try to work alone on it asking whatever you want to your mentor.
-
 ### How is the project structured?
 
 Almost all the Schibsted Spain projects need the following main repositories to work. According to that we splitted the learning process in four parts:
